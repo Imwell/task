@@ -9,7 +9,7 @@
     第四点：MySQL
         会自己搭建MySQL,属性MySQL的书写
     第五点：PHP
-        基本语法数组、字符串、数据库、XML、Socket、GD/ImageMgk图片处理等等;熟悉常用的PHP框架(ThingPHP、Yii、Yaf、Zendframework、Laravel)了解这几个框架之间的区别;
+        基本语法数组、字符串、数据库、XML、Socket、GD/ImageMgk图片处理等等;熟悉常用的PHP框架(ThingPHP、Yii、Yaf、Zendframework、Laravel)了解<br>这几个框架之间的区别;
     第六点：前端
         学习熟悉HTML/CSS/JS等相关知识,知道一些web标准,div+css的web/wap页面模式
     第七点：系统设计
