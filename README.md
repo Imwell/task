@@ -12,7 +12,8 @@
         学习熟悉HTML/CSS/JS等相关知识,知道一些web标准,div+css的web/wap页面模式
     第六点：系统设计
         完成小型系统的基本设计,包括简单的数据库设计,完成基本的：`浏览器 -> Nginx+PHP -> 数据` 架构的设计开发工作
-    
+  ## 第二阶段：Java & PHP
+    第一点：语法 & 相关框架
 https://www.zhihu.com/question/27170424
 
 http://rango.swoole.com/archives/570
